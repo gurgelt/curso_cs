@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hNKp2va6GzRxGau5vv8fH7HCg5is0O6lIv/kwKn9Zfap+PtMvlAmYOKz19fysTLmO2y5HrsTmVVhdjHLH44jvg==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

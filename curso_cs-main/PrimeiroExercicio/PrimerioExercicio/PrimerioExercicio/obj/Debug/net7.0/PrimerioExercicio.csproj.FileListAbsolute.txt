@@ -1,0 +1,14 @@
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\bin\Debug\net7.0\PrimerioExercicio.exe
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\bin\Debug\net7.0\PrimerioExercicio.deps.json
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\bin\Debug\net7.0\PrimerioExercicio.runtimeconfig.json
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\bin\Debug\net7.0\PrimerioExercicio.dll
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\bin\Debug\net7.0\PrimerioExercicio.pdb
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\obj\Debug\net7.0\PrimerioExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\obj\Debug\net7.0\PrimerioExercicio.AssemblyInfoInputs.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\obj\Debug\net7.0\PrimerioExercicio.AssemblyInfo.cs
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\obj\Debug\net7.0\PrimerioExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\obj\Debug\net7.0\PrimerioExercicio.dll
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\obj\Debug\net7.0\refint\PrimerioExercicio.dll
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\obj\Debug\net7.0\PrimerioExercicio.pdb
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\obj\Debug\net7.0\PrimerioExercicio.genruntimeconfig.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\PrimeiroExercicio\PrimerioExercicio\PrimerioExercicio\obj\Debug\net7.0\ref\PrimerioExercicio.dll

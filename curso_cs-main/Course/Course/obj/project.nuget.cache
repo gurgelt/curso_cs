@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xnJBV98+dzx89pmjCpUenwDGfqTx5b1tCUlo9to6QuHVYTGAYm1oKpWmI80Vk5MraE15IhL28twoOyG6Qr54Q==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\Course\\Course\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\bin\Debug\net7.0\Aula20.exe
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\bin\Debug\net7.0\Aula20.deps.json
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\bin\Debug\net7.0\Aula20.runtimeconfig.json
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\bin\Debug\net7.0\Aula20.dll
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\bin\Debug\net7.0\Aula20.pdb
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\obj\Debug\net7.0\Aula20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\obj\Debug\net7.0\Aula20.AssemblyInfoInputs.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\obj\Debug\net7.0\Aula20.AssemblyInfo.cs
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\obj\Debug\net7.0\Aula20.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\obj\Debug\net7.0\Aula20.dll
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\obj\Debug\net7.0\refint\Aula20.dll
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\obj\Debug\net7.0\Aula20.pdb
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\obj\Debug\net7.0\Aula20.genruntimeconfig.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula20\Aula20\Aula20\obj\Debug\net7.0\ref\Aula20.dll

@@ -1,0 +1,14 @@
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\bin\Debug\net7.0\Aula21.exe
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\bin\Debug\net7.0\Aula21.deps.json
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\bin\Debug\net7.0\Aula21.runtimeconfig.json
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\bin\Debug\net7.0\Aula21.dll
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\bin\Debug\net7.0\Aula21.pdb
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\obj\Debug\net7.0\Aula21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\obj\Debug\net7.0\Aula21.AssemblyInfoInputs.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\obj\Debug\net7.0\Aula21.AssemblyInfo.cs
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\obj\Debug\net7.0\Aula21.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\obj\Debug\net7.0\Aula21.dll
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\obj\Debug\net7.0\refint\Aula21.dll
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\obj\Debug\net7.0\Aula21.pdb
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\obj\Debug\net7.0\Aula21.genruntimeconfig.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\curso_cs\curso_cs-main\Aula21\Aula21\Aula21\obj\Debug\net7.0\ref\Aula21.dll
